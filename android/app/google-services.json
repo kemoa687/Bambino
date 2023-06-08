@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470511035915",
+    "project_id": "test-4444b",
+    "storage_bucket": "test-4444b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470511035915:android:68cd5db47a543abbc6090e",
+        "android_client_info": {
+          "package_name": "com.example.babmbino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470511035915-627va8sv2j9letqqmumte2i33s0mjnre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babmbino",
+            "certificate_hash": "eb11f5db92c1787d04619b9fd5757a62a8d5e037"
+          }
+        },
+        {
+          "client_id": "470511035915-u5c2eu16oi8emiuhrr994c8m8sn9rj89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjkPieQadRPpeJPAxC0ogw3QAV4UxniM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470511035915-u5c2eu16oi8emiuhrr994c8m8sn9rj89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
